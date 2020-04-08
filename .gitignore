@@ -4,6 +4,7 @@ dist/
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+rm.txt
 
 # Editor directories and files
 .idea
