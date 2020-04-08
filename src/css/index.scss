@@ -1,0 +1,14 @@
+h1{
+  color: $global-color;
+  font-size: 30px;
+}
+.logo{
+  width: 260px;
+  height: 90px;
+  background: url(~@/images/logo.png)
+}
+.fontbig{
+  .icon{
+    font-size: 36px;
+  }
+}
